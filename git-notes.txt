@@ -3,9 +3,9 @@ git init .
 
 add a new file and commit it to the repository
 git add FILENAME
-
-hallo
-
+####
+penis!!!
+####
 klappt wieder
 
 git commit -m "AMIZING COMMIT" FILENAME
