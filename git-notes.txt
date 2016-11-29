@@ -6,4 +6,6 @@ git add FILENAME
 
 hallo
 
+klappt wieder
+
 git commit -m "AMIZING COMMIT" FILENAME
