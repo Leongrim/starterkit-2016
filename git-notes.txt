@@ -3,4 +3,7 @@ git init .
 
 add a new file and commit it to the repository
 git add FILENAME
+
+hallo
+
 git commit -m "AMIZING COMMIT" FILENAME
